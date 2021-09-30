@@ -1,0 +1,23 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code, Consolas, monospace, 'Courier New', monospace",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "powermode.enabled": true,
+    "powermode.presents": "frames",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.colorTheme": "Dragula",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "extension.autoUpdate": "onlyEnableExtension",
+    "editor.tabSize": 5,
+    "php.validate.executablePath": ""
+}
+ 
+
+
+
